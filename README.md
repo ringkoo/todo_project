@@ -9,7 +9,7 @@ Todo 완료 상태 변경하기
 React
 
 <h4>코드 구조</h4>
-App.js : Todo List 앱의 메인 컴포넌트입니다. Todo를 추가하고 삭제하고 완료 상태를 변경하는 기능을 제공합니다.
+App.js : Todo List 앱의 메인 컴포넌트입니다. Todo를 추가하고 삭제하고 완료 상태를 변경하는 기능을 제공합니다.<br/>
 Listbox.js : Todo List를 렌더링하는 컴포넌트입니다.
 
 <h4>Todo List 추가하기</h4>
